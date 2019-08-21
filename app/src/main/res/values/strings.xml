@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Rifdah Neta</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Hi, my name is Rifdah.
+    \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit,
+        \n\nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        \n\nDolor sed viverra ipsum nunc aliquet bibendum enim. In massa tempor nec feugiat. Nunc aliquet bibendum enim facilisis gravida.
+        \n\nNisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Amet luctus venenatis lectus magna fringilla. Volutpat maecenas volutpat
+        \n\nblandit aliquam etiam erat velit scelerisque in. Egestas egestas fringilla phasellus faucibus scelerisque eleifend. Sagittis orci a
+        \n\nscelerisque purus semper eget duis. Nulla pharetra diam sit amet nisl suscipit.
+        \n\nSed adipiscing diam donec adipiscing tristique risus nec feugiat in. Fusce ut placerat orci nulla.
+        \n\nPharetra vel turpis nunc eget lorem dolor. Tristique senectus et netus et malesuada.
+        \n\nEtiam tempor orci eu lobortis elementum nibh tellus molestie. Neque egestas congue quisque egestas.
+        \n\nEgestas integer eget aliquet nibh praesent tristique. Vulputate mi sit amet mauris. Sodales neque sodales ut etiam sit. Dignissim suspendisse in est ante in.
+        \n\nVolutpat commodo sed egestas egestas. Felis donec et odio pellentesque diam. Pharetra vel turpis nunc eget lorem dolor sed viverra.
+        \n\nPorta nibh venenatis cras sed felis eget. Aliquam ultrices sagittis orci a. Dignissim diam quis enim lobortis. Aliquet porttitor lacus luctus accumsan.
+        \n\nDignissim convallis aenean et tortor at risus viverra adipiscing at.</string>
+    <string name="whats_your_nickname">What is your nickname?</string>
+    <string name="done">done</string>
+</resources>
